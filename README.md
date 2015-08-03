@@ -16,7 +16,7 @@ It is back compatible with version 2.2 of osCommerce.
 
 ## Documentation
 Documentation and more examples can be found at
-[santander.consid.se](http://santander.consid.se).
+[santander.consid.se/oscommerce](http://santander.consid.se/oscommerce).
 
 ## Versions
 You will always find the current version in this repository. For previous versions see list below:
