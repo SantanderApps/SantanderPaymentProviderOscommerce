@@ -1,4 +1,4 @@
-# Santander Payment Gateway; osCommerce
+# Santander Payment Gateway: osCommerce
 
 ## Description
 A description about the module. What it does and how it works.
