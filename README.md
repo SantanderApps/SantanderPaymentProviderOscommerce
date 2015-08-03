@@ -34,9 +34,7 @@ You will always find the current version in this repository. For previous versio
 ## Questions and feedback
 If you have any questions concerning this product or the implementation, please contact [santander@consid.se](mailto:santander@consid.se).
 
-## E-commerce platform: osCommerce
+## About the e-commerce platform: osCommerce
 > We provide you the tools to set up your very own complete and self-hosted online store website for free to market and securely sell products and services to customers worldwide.
 
-Homepage: [osCommerce homepage]
-
-[osCommerce homepage]: http://www.oscommerce.com
+[osCommerce homepage](http://www.oscommerce.com)
