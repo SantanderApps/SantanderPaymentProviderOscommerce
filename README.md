@@ -18,6 +18,6 @@ The current version is 1.0.0. It is tested for osCommerce 2.3 at 2015-08-03 10:0
 It is back compatible with version 2.2 of osCommerce.
 
 ## Support
-For technical questions e-mail us as santander@consid.se.
+For technical questions e-mail us at santander@consid.se.
 
 [osCommerce homepage]: http://www.oscommerce.com
