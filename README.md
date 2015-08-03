@@ -10,16 +10,12 @@ A description about the module. What it does and how it works.
 * osCommerce v2.3
 * ...
 
-## Current version
+## Versions
+You will always find the current version in this repository. For previous versions see list below.
+
 The current version is 2.0. It is tested for osCommerce 2.3.4 at 2015-08-03 10:00.
 It is back compatible with version 2.2 RC2a of osCommerce.
 
-## Documentation
-Documentation and more examples can be found at
-[santander.consid.se/oscommerce](http://santander.consid.se/oscommerce).
-
-## Versions
-You will always find the current version in this repository. For previous versions see list below:
 * [v1.9](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.9)
 * [v1.8](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.8)
 * [v1.7](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.7)
@@ -30,6 +26,10 @@ You will always find the current version in this repository. For previous versio
 * [v1.2](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.2)
 * [v1.1](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.1)
 * [v1.0](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.0)
+
+## Documentation
+Documentation and more examples can be found at
+[santander.consid.se/oscommerce](http://santander.consid.se/oscommerce).
 
 ## Questions and feedback
 If you have any questions concerning this product or the implementation, please contact [santander@consid.se](mailto:santander@consid.se).
