@@ -14,7 +14,7 @@ A description about the module. What it does and how it works.
 You will always find the current version in this repository. For previous versions see list below.
 
 The current version is 2.0. It is tested for osCommerce 2.3.4 at 2015-08-03 10:00.
-It is back compatible with version 2.2 RC2a of osCommerce.
+It is compatible with version 2.2 RC2a and above of osCommerce.
 
 * [v1.9](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.9)
 * [v1.8](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.8)
