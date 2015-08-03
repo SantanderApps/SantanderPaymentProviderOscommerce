@@ -11,8 +11,8 @@ A description about the module. What it does and how it works.
 * ...
 
 ## Current version
-The current version is 2.0. It is tested for osCommerce 2.3 at 2015-08-03 10:00.
-It is back compatible with version 2.2 of osCommerce.
+The current version is 2.0. It is tested for osCommerce 2.3.4 at 2015-08-03 10:00.
+It is back compatible with version 2.2 RC2a of osCommerce.
 
 ## Documentation
 Documentation and more examples can be found at
