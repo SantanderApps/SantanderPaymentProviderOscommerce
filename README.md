@@ -9,28 +9,15 @@ A description about the module. What it does and how it works.
 * Platform: osCommerce 2.3.4
 
 ## Requirements
-* Apache v2+
-* PHP v5.4
-* MySQL v5+
-* osCommerce v2.3
-* ...
+* PHP version 5.3.0 or greater.
+* PHP SoapClient ([http://php.net/manual/en/class.soapclient.php](http://php.net/manual/en/class.soapclient.php))
+* Openssl
+* cURL lib must be enabled for PHP ([http://php.net/manual/en/book.curl.php](http://php.net/manual/en/book.curl.php))
+* libxml [http://php.net/manual/en/book.libxml.php](http://php.net/manual/en/book.libxml.php)
 
 ## Documentation
-Documentation and more examples can be found at
-[santander.consid.se/oscommerce](http://santander.consid.se/oscommerce).
-
-## Previous Versions
-* [v1.9](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.9) (Platform version: osCommerce 2.2, Release date: 2015-01-01)
-* [v1.8](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.8)
-* [v1.7](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.7)
-* [v1.6](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.6)
-* [v1.5](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.5)
-* [v1.4](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.4)
-* [v1.3](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.3)
-* [v1.2](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.2)
-* [v1.1](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.1)
-* [v1.0](https://github.com/SantanderApps/SantanderPaymentProviderOscommerce-1.0)
-
+Documentation and more examples can be found in
+[the docs folder](./docs).
 
 ## Account Setup - Santander
 If you have any questions concerning your account with Santander, i.e. certificate, shop ID, marchant ID, password etc, please contact [santander@consid.se](mailto:santander@consid.se).
