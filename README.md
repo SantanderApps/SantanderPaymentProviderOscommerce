@@ -1,11 +1,12 @@
 # Santander Payment Gateway: osCommerce
 
 ## Description
-A description about the module. What it does and how it works.
+This module integrate Santander Consumer Bank's payment service into osCommerce.
+With this module you can offer your customers to pay with Santander Consumer Bank.
 
 ## Current version
-* Version: 2.0
-* Release date: 2015-08-03
+* Version: 1.0
+* Release date: 2015-08-17
 * Platform: osCommerce 2.3.4
 
 ## Requirements
