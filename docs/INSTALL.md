@@ -32,9 +32,9 @@ The following requirements must be fulfilled for this module to work.
 * **Store ID:** type the store ID that have been provided for you by Santander. This field will be automatically filled out when the module environment is set to "sandbox (test environment)".
 * **Username:** type the username that have been provided for you by Santander. This field will be automatically filled out when the module environment is set to "sandbox (test environment)".
 * **Password:** type the password that have been provided for you by Santander. This field will be automatically filled out when the module environment is set to "sandbox (test environment)".
-* **Certificate:** type the name of the file for the .pem certificate file that have been provided for you by Santander. This field will be automatically filled out when the module environment is set to "sandbox (test environment)".
+* **Certificate:** (optional in sandbox/test environment) type the name of the file for the .pem certificate file that have been provided for you by Santander. This field will be automatically filled out when the module environment is set to "sandbox (test environment)".
 
-* **Merchant ID:** type the merchant ID that have been provided for you by your payment service provider. See list below for supported payment service providers.
+* **Merchant ID:** (optional in sandbox/test environment) type the merchant ID that have been provided for you by your payment service provider. See list below for supported payment service providers.
 
 ## Supported payment service providers
 Santander supports the following payment service providers:
