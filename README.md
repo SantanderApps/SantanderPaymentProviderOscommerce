@@ -21,10 +21,10 @@ Documentation and more examples can be found in
 [the docs folder](./docs).
 
 ## Account Setup - Santander
-If you have any questions concerning your account with Santander, i.e. certificate, shop ID, marchant ID, password etc, please contact [santander@consid.se](mailto:santander@consid.se).
+If you have any questions concerning your account with Santander, i.e. certificate, shop ID, marchant ID, password etc, please [contact Santander](http://santander.consid.se/site/contact?department=2).
 
 ## Technical Issues - Consid S5
-If you have any issues installing the module, please contact Santander's IT partner Consid S5 at [santander@consid.se](mailto:santander@consid.se).
+If you have any issues installing the module, please [contact Santander's IT partner Consid S5](http://santander.consid.se/site/contact?department=1).
 
 ## About the e-commerce platform: osCommerce
 > We provide you the tools to set up your very own complete and self-hosted online store website for free to market and securely sell products and services to customers worldwide.
