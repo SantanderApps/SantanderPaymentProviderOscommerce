@@ -5,7 +5,7 @@ This module integrate Santander Consumer Bank's payment service into osCommerce.
 With this module you can offer your customers to pay with Santander Consumer Bank.
 
 ## Current version
-* Version: 1.0
+* Version: 1.0.0os
 * Release date: 2015-08-17
 * Platform: osCommerce 2.3.4
 
