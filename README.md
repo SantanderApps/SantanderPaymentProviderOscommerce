@@ -1,12 +1,11 @@
 # Santander Payment Gateway: osCommerce
 
 ## Description
-This module integrate Santander Consumer Bank's payment service into osCommerce.
-With this module you can offer your customers to pay with Santander Consumer Bank.
+Santander’s osCommerce payment gateway module supports customer credit applications with Santander Consumer Bank Services.
 
 ## Current version
 * Version: 1.0.0os
-* Release date: 2015-08-17
+* Release date: 2015-08-28
 * Platform: osCommerce 2.3.4
 
 ## Requirements
@@ -17,16 +16,15 @@ With this module you can offer your customers to pay with Santander Consumer Ban
 * libxml [http://php.net/manual/en/book.libxml.php](http://php.net/manual/en/book.libxml.php)
 
 ## Documentation
-Documentation and more examples can be found in
-[the docs folder](./docs).
+Installation instructions and any other supporting documentation are located in [the docs folder](./docs) folder that accompanies the download.
 
 ## Account Setup - Santander
-If you have any questions concerning your account with Santander, i.e. certificate, shop ID, marchant ID, password etc, please [contact Santander](http://santander.consid.se/site/contact?department=2).
+If you have any questions concerning your account details: Shop ID, merchant ID, password etc. please contact Santander [by clicking here](http://santander.consid.se/site/contact?department=2).
 
-## Technical Issues - Consid S5
-If you have any issues installing the module, please [contact Santander's IT partner Consid S5](http://santander.consid.se/site/contact?department=1).
+## Technical Issues - Consid
+If you have any issues installing the module, please contact Santander’s payment gateway IT services partner [by clicking here](http://santander.consid.se/site/contact?department=1).
 
-## About the e-commerce platform: osCommerce
-> We provide you the tools to set up your very own complete and self-hosted online store website for free to market and securely sell products and services to customers worldwide.
+## About: osCommerce
+> OsCommerce (open source Commerce") is an e-commerce and online store-management software program. It can be used on any web server that has PHP and MySQL installed. It is available as free software under the GNU General Public License.
 
 [osCommerce homepage](http://www.oscommerce.com)
