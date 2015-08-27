@@ -25,6 +25,6 @@ If you have any questions concerning your account details: Shop ID, merchant ID,
 If you have any issues installing the module, please contact Santander’s payment gateway IT services partner [by clicking here](http://santander.consid.se/site/contact?department=1).
 
 ## About: osCommerce
-> OsCommerce (open source Commerce") is an e-commerce and online store-management software program. It can be used on any web server that has PHP and MySQL installed. It is available as free software under the GNU General Public License.
+> OsCommerce ("open source Commerce") is an e-commerce and online store-management software program. It can be used on any web server that has PHP and MySQL installed. It is available as free software under the GNU General Public License.
 
 [osCommerce homepage](http://www.oscommerce.com)
