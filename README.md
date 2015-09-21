@@ -5,7 +5,7 @@ Santander’s osCommerce payment gateway module supports customer credit applica
 
 ## Current version
 * Version: 1.0.0os
-* Release date: 2015-08-28
+* Release date: 2015-09-19
 * Platform: osCommerce 2.3.4
 
 ## Requirements
