@@ -4,9 +4,18 @@
 Santander’s osCommerce payment gateway module supports customer credit applications with Santander Consumer Bank Services.
 
 ## Current version
-* Version: 1.0.0os
-* Release date: 2015-09-19
+* Version: 1.0.1os
+* Release date: 2015-11-24
 * Platform: osCommerce 2.3.4
+
+## Changelog ##
+
+### v 1.0.1os ###
+* Removed: Santander\base\sendAndDeletePreviousLog() have never been used and is now removed.
+* Bug: Solves an issue with verifying user account details.
+
+### v 1.0.0os ###
+* First stable release
 
 ## Requirements
 * PHP version 5.3.0 or greater.
