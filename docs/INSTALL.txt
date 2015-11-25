@@ -45,6 +45,8 @@ The following requirements must be fulfilled for this module to work.
     type the name of the file for the .pem certificate file that have been provided for you by Santander. This field will be automatically filled out when the module environment is set to "sandbox (test environment)".
 * Merchant ID: (optional in sandbox/test environment)
     type the merchant ID that have been provided for you by your payment service provider. See list below for supported payment service providers.
+* Support Logs: 
+    For a better support experience Santander´s plugin logs all connections to and from Santander´s web services. You have the option to opt-out of these logs being automatically collected by Santander.
 
 5. Supported payment service providers
 Santander supports the following payment service providers:
