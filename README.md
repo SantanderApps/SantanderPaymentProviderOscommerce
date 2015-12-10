@@ -4,11 +4,15 @@
 Santander’s osCommerce payment gateway module supports customer credit applications with Santander Consumer Bank Services.
 
 ## Current version
-* Version: 1.0.2os
-* Release date: 2015-11-25
+* Version: 1.0.3os
+* Release date: 2015-12-10
 * Platform: osCommerce 2.3.4
 
 ## Changelog ##
+
+### v 1.0.3os ###
+* Bug: Fixes a bug with token that is being incorrect encoded when sent to GetResult().
+* Changed: Better informative texts in checkout.
 
 ### v 1.0.2os ###
 * Opt-out external log access
